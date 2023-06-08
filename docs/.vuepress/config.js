@@ -1,5 +1,5 @@
 module.exports = {
-  base: process.env.NODE_ENV === 'production' ? '/g-ts-axios-doc/ts-axios' : '/ts-axios/',
+  base: '/g-ts-axios-doc/',
   dest: 'dist',
   title: 'TypeScript 从零实现 axios',
   description: '学习使用 TypeScript 从零实现 axios 库',
