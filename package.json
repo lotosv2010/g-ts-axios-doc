@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ustbhuangyi/ts-axios-doc.git"
+    "url": "git+https://github.com/lotosv2010/g-ts-axios-doc.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ustbhuangyi/ts-axios-doc/issues"
+    "url": "https://github.com/lotosv2010/g-ts-axios-doc/issues"
   },
-  "homepage": "https://github.com/ustbhuangyi/ts-axios-doc#readme",
+  "homepage": "https://lotosv2010.github.io/g-ts-axios-doc/",
   "devDependencies": {
     "vuepress": "^1.0.0-alpha.44"
   }

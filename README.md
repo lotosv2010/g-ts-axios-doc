@@ -16,4 +16,8 @@ npm install
 npm run dev
 ```
 
-浏览器打开 `http://localhost:8080/ts-axios/` 即可。
+浏览器打开 `http://localhost:8080/g-ts-axios-doc/` 即可。
+
+## 线上电子书
+
+浏览器打开 `https://lotosv2010.github.io/g-ts-axios-doc/` 即可。
